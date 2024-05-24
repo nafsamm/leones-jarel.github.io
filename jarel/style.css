@@ -1,0 +1,81 @@
+*{
+  background-color: rgb(20, 186, 67);
+  text-align: center;
+}
+h5{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  background-color: black;
+}
+h5:visited {
+  color: #27e431;
+  background-color:rgb(192, 35, 121)
+}
+h5:hover {
+  color: #FF0000;
+  background-color:rgb(26, 235, 78)
+}
+h5:active {
+  color: #a41af3;
+  background-color:rgb(52, 170, 216)
+}
+
+h3:link{
+  color: #9d43f1;
+}
+h3:visited {
+  color: royalblue;
+  background-color:rgb(243, 181, 66)
+}
+h3:hover {
+  color: #FF0000;
+  background-color:rgb(243, 181, 66)
+}
+h3:active {
+  color: blue;
+  background-color:rgb(243, 181, 66)
+}
+p:link{
+  color: #9d43f1;
+}
+p:visited {
+  color: royalblue;
+  background-color:rgb(243, 181, 66)
+}
+p:hover {
+  color: #FF0000;
+  background-color:rgb(243, 181, 66)
+}
+p:active {
+  color: blue;
+  background-color:rgb(243, 181, 66)
+}
+button {
+  background-color: #0b020f;
+  border: none;
+  color: white;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  cursor: pointer;
+}
+button:link{
+  color: #9d43f1;
+}
+button:visited {
+  color: royalblue;
+  background-color:rgb(243, 181, 66)
+}
+button:hover {
+  color: #FF0000;
+  background-color:rgb(243, 181, 66)
+}
+button:active {
+  color: blue;
+  background-color:rgb(243, 181, 66)
+}
